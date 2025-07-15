@@ -36,4 +36,3 @@
 ## Checklist
 
 - [ ] I have read the **code of conduct** and **contributing guidelines** in the repository root.
-
