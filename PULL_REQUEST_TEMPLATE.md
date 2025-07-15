@@ -2,19 +2,13 @@
   Thanks for submitting a pull request!
   We appreciate you spending the time to work on these changes.
   Please provide enough information so that others can review your pull request.
-  Before making a pull request, read our contributing guidelines in `README.md`.
--->
-
-# Title
-
-<!--
-  Erase `Title` and write down the proper title for this pull request.
+  Be sure to check our contributing guidelines in the `README.md` or `CONTRIBUTING.md` before opening a pull request.
 -->
 
 ## Summary
 
 <!--
-  Explain the **motivation** for making this change. What existing problem does the pull request solve?
+  Explain the motivation for making this change. What existing problem does the pull request solve?
 -->
 
 ## Details
@@ -38,3 +32,8 @@
   If you fixed problems in issues, write down the numbers of issues.
   Example: #1, #2, ...
 -->
+
+## Checklist
+
+- [ ] I have read the **code of conduct** and **contributing guidelines** in the repository root.
+
