@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-<kbd>[한국어](CODE_OF_CONDUCT.ko.md)</kbd> | <kbd>English</kbd>
+<kbd>[한국어](CODE_OF_CONDUCT_KO.md)</kbd> | <kbd>English</kbd>
 
 ## Our Pledge
 
