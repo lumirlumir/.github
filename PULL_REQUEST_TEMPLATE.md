@@ -35,4 +35,4 @@
 
 ## Checklist
 
-- [ ] I have read the **code of conduct** and **contributing guidelines** in the repository root.
+- [ ] I have read the [**code of conduct**](https://github.com/lumirlumir/.github/blob/main/CODE_OF_CONDUCT.md) and **contributing guidelines** in the repository root.
