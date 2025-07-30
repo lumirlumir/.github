@@ -1,6 +1,6 @@
 # Security
 
-<kbd>[한국어](SECURITY.ko.md)</kbd> | <kbd>English</kbd>
+<kbd>[한국어](SECURITY_KO.md)</kbd> | <kbd>English</kbd>
 
 ## Reporting a Vulnerability
 
