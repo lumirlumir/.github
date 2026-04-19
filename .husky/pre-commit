@@ -1,3 +1,0 @@
-npx lint-staged -v
-
-npm run build && git add docs/contributions.md
